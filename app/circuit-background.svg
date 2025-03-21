@@ -1,0 +1,21 @@
+<svg width="1440" height="900" viewBox="0 0 1440 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M0 0h1440v900H0z" fill="#000"/>
+  <path stroke="#0066FF" stroke-opacity=".2" stroke-width="2" d="M100 100h1240v700H100z"/>
+  <path stroke="#0066FF" stroke-opacity=".15" stroke-width="1.5" d="M150 150h1140v600H150z"/>
+  <path stroke="#0066FF" stroke-opacity=".1" stroke-width="1" d="M200 200h1040v500H200z"/>
+  <circle cx="720" cy="450" r="10" fill="#0066FF" fill-opacity=".5"/>
+  <circle cx="720" cy="450" r="20" stroke="#0066FF" stroke-opacity=".3"/>
+  <circle cx="720" cy="450" r="30" stroke="#0066FF" stroke-opacity=".2"/>
+  <circle cx="720" cy="450" r="40" stroke="#0066FF" stroke-opacity=".1"/>
+  <path stroke="#0066FF" stroke-opacity=".2" d="M720 100v350M720 450v350M100 450h620M720 450h620"/>
+  <circle cx="300" cy="200" r="5" fill="#0066FF" fill-opacity=".3"/>
+  <circle cx="500" cy="300" r="5" fill="#0066FF" fill-opacity=".3"/>
+  <circle cx="900" cy="200" r="5" fill="#0066FF" fill-opacity=".3"/>
+  <circle cx="1100" cy="300" r="5" fill="#0066FF" fill-opacity=".3"/>
+  <circle cx="300" cy="700" r="5" fill="#0066FF" fill-opacity=".3"/>
+  <circle cx="500" cy="600" r="5" fill="#0066FF" fill-opacity=".3"/>
+  <circle cx="900" cy="700" r="5" fill="#0066FF" fill-opacity=".3"/>
+  <circle cx="1100" cy="600" r="5" fill="#0066FF" fill-opacity=".3"/>
+  <path stroke="#0066FF" stroke-opacity=".15" d="M300 200h600M300 700h600M500 300v300M900 200v500M1100 300v300"/>
+</svg>
+
